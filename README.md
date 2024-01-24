@@ -1,0 +1,1 @@
+This is a rootkit scanner written in 64-bit Netwide Assembler
